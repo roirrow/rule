@@ -37,11 +37,11 @@ index (`group_type`)
 RuleRunner.java
 
 /**
- * 
- * Description:刷新规则内容<br> 
- *  
- * @author wanglei<br>
- * @taskId <br> <br>
+* 
+*Description:刷新规则内容<br> 
+*  
+*@author wanglei<br>
+*@taskId <br> <br>
 */
 
 public synchronized void refreshRules() {
