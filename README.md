@@ -1,6 +1,6 @@
 config/rule.xml是规则引擎的配置文件，如果使用spring,请import进spring上下文配置文件里；
 
-规则引擎采用了jboss的设计思路：
+规则引擎采用了jboss drools的设计思路：
 
 规则＝规则执行条件＋规则执行内容＋规则分组 + 规则优先级
 
